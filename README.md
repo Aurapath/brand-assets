@@ -72,6 +72,25 @@ the signature stays under Gmail's size limit.
 | `aurapath-email-signature-preview.png` | Brandon's rendered preview |
 | `aurapath-email-signature-travis-preview.png` | Travis's rendered preview |
 
+### Zoom backgrounds
+3840x2160 virtual backgrounds with the AuraPath mark in the top corner and the
+*Impactful AI, at scale.* tagline. Two color ways (dark obsidian, light cream)
+in normal and pre-mirrored copies. Use a mirrored copy if you keep Zoom's
+**Mirror my video** toggle on, so the wordmark reads correctly to viewers.
+| File | Look |
+| --- | --- |
+| `aurapath-zoom-background.png` | Dark obsidian |
+| `aurapath-zoom-background-mirrored.png` | Dark, pre-mirrored |
+| `aurapath-zoom-background-light.png` | Light cream |
+| `aurapath-zoom-background-light-mirrored.png` | Light, pre-mirrored |
+| `aurapath-zoom-background.html` | Dark source |
+| `aurapath-zoom-background-light.html` | Light source |
+
+### Decks
+| File | Use |
+| --- | --- |
+| `aurapath-value-prop-deck.pdf` | The who-we-are / value-proposition deck for intake calls |
+
 ## Generating a new signature
 
 Use the **`aurapath-signature`** Claude Code skill in
